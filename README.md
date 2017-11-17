@@ -36,5 +36,5 @@ Here I explore some time-series prediction algorithms on four different, real da
 I find that the methods' performance is highly dependent on the data and the assumptions and problem specific knowledge are thus vital for achieving high performance. 
 
 # Code
-`time_series_1.py`: contains all the forecasting functions
-`ts_forecast_plots.ipynb`: explores the above functions on the different datasets for 1-step and multi-step forecasts.
+* `time_series_1.py`: contains all the forecasting functions
+* `ts_forecast_plots.ipynb`: explores the above functions on the different datasets for 1-step and multi-step forecasts.
